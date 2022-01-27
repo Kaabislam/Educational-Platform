@@ -12,6 +12,10 @@ Courses are included with topics and relative videos.
 </pre>
 ## Blog Section:
  This section consists of various informative blogs.Various type of blogs like puzzle,evolution,interesting mathemetical problems consists in this section
+ ### Screenshots of Blog Section
+ ![Screenshot from 2022-01-28 02-02-44](https://user-images.githubusercontent.com/42168364/151435252-8dc29081-f9b8-4e1d-be2d-bebbc903b579.png) ![Screenshot from 2022-01-28 02-03-15](https://user-images.githubusercontent.com/42168364/151435415-0ca307ce-fdd8-478a-8f24-845cf0126c29.png)
+
+ 
  ## Website Video
  
 
